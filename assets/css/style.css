@@ -1,0 +1,46 @@
+
+
+.jumbotron{
+	text-align: center;
+	background-color: #9012FE;
+    color: #fff;
+}
+
+h1{
+
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: lighter;
+	letter-spacing: 2px;
+}
+
+h3 {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: lighter;
+	letter-spacing: 2px;
+}
+
+.panel-info>.panel-heading {
+    color: #fff;
+    background-color: #9012FE;
+    border-color: #9012FE;
+}
+
+
+.btn-info {
+    color: #fff;
+    background-color: #9012fe;
+    border-color: #9012fe;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: lighter;
+	letter-spacing: 1px;
+}
+
+th{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: normal;
+}
+
+label{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: normal;
+}
